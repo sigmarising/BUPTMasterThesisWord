@@ -1,6 +1,6 @@
 # BUPT Master Thesis Word
 
-北京邮电大学硕士研究生毕业论文的 Microsoft Office Word 模板。
+北京邮电大学硕士研究生毕业论文的 Microsoft Office Word 模板（同样适用于博士毕业论文）。
 
 ## INTRODUCTION
 
@@ -25,6 +25,11 @@ PDF 版本的 [Usage](./Usage.pdf) 提供了模板的各项使用帮助。
 如果大家有更好的关于毕业论文模板的修改更新，欢迎大家参与贡献，尽可能的帮助广大 BUPT 校友。
 
 ## CHANGE LOG
+
+### 2.0.0 (2022-6-17)
+
+* **此版本采用左装订自动生成空白页的方式，重新修订了整个模板，使得每个新章节都会排版在右手页（奇数页）**
+> 注：若无需使用自动生成空白页的功能，可以使用 [v1.2.0](https://github.com/sigmarising/BUPTMasterThesisWord/releases/tag/v1.2.0) 版本的模板
 
 ### 1.2.0 (2022-2-26)
 
