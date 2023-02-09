@@ -26,6 +26,10 @@ PDF 版本的 [Usage](./Usage.pdf) 提供了模板的各项使用帮助。
 
 ## CHANGE LOG
 
+### 2.0.2 (2023-2-9)
+
+* 修复第二章的末尾分节符（下一页）为分节符（奇数页）
+
 ### 2.0.1 (2023-2-9)
 
 * 修复第三章的末尾分节符（下一页）为分节符（奇数页），关闭 [#4](https://github.com/sigmarising/BUPTMasterThesisWord/issues/4)
